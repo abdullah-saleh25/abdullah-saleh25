@@ -19,16 +19,9 @@ I work with a wide range of tools and techniques to clean, analyze, and visualiz
 
 ---
 
-## 📂 Portfolio Projects
 
-Here are a few of my public data analytics projects built with real datasets:
 
-| 📁 Project | 🔍 Description | 📊 Link |
-|-----------|----------------|--------|
-| **Sales & Customers Dashboard** | Analysis of customer behavior, product performance, and regional sales trends | [View on Tableau Public](https://public.tableau.com/app/profile/abdullah.saleh1761/vizzes) |
-| **HR Analytics Dashboard** | Insights into employee turnover, satisfaction, and promotion patterns | [View on Tableau Public](https://public.tableau.com/app/profile/abdullah.saleh1761/vizzes) |
-| **Data Warehouse Project** | Designed a sales data warehouse with dimensional modeling and ETL concepts | [View Repo](https://github.com/abdullah-saleh25/datawarehouse-project) |
-| **Data Analytics Dashboard** | General analytics dashboard built with Tableau and cleaned using Python and Excel | [View on Tableau Public](https://public.tableau.com/app/profile/abdullah.saleh1761/vizzes) |
+
 
 👉 Explore more in the [tableau-projects](https://github.com/abdullah-saleh25/tableau-projects) repository.
 
